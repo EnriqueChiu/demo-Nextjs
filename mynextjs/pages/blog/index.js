@@ -25,7 +25,7 @@ export default function Blog(){
             </h1>
           </div>
           <div className='col-md-4 offset-md-1'>
-            <img src="  " className="img-fluid rounded" alt="blog images" />
+            <img src="http://www.andaluciaesdigital.es/educarparaproteger/adolescentes/images/galeria/perfiles-tic/contenidos-blogs.jpg" className="img-fluid rounded" alt="blog images" />
           </div>
         </div>
       </div>
